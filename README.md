@@ -23,7 +23,7 @@ To test your functional testing skills we'd like you to create a test to crawl e
 - We prefer you use differential screenshot analysis, how you implement it is up to you
 - Some combination of [PhantomJS 2](https://github.com/ariya/phantomjs) or [SlimerJS](https://github.com/laurentj/slimerjs) and [Resemble.js](http://huddle.github.io/Resemble.js/), but we're open to any other more innovative / creative way of accomplishing the above
 
-## Unit Testing / CI
+## Unit Testing
 
 ### Instructions
 To test your experience with unit testing we'd like you to setup and configure a series of unit tests to check the script / code you created for the Functional + Visual Testing portion.
