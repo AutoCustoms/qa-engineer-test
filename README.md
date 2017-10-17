@@ -29,5 +29,5 @@ To test your functional testing skills we'd like you to create a test to crawl e
 To test your experience with unit testing we'd like you to setup and configure a series of unit tests to check the script / code you created for the Functional + Visual Testing portion.
 
 ### What we're looking for
-- Common sense unit tests that leverage a widely used unit testing framework of your choice (something like [Mocha](https://mochajs.org/) would be ideal
+- Common sense unit tests that leverage a widely used unit testing framework of your choice (something like [Mocha](https://mochajs.org/) would be ideal)
 - You can test as little or as much of your code as you like, we're looking to see what you choose to test and how so we want you to use your best judgement imagining this is a real-world scenario
